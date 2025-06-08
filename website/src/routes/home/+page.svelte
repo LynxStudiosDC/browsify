@@ -7,7 +7,7 @@
 	<h1
 		class="montserrat-black relative select-none text-[4rem] text-primary sm:text-[5rem] md:text-[8rem]"
 	>
-		Vyntr
+		Browsify
 	</h1>
 
 	<SearchInput className="max-w-3xl px-4" />
